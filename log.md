@@ -8,7 +8,7 @@
 ## 2026-10-20 · 周二 · 第 1 天
 
 **实际做了**
-- [x] M0 建 study-log 仓库（15 min）
+- [ ] M0 建 study-log 仓库（15 min）
 - [x] LeetCode 注册 + 22:40 闹钟（10 min）
 - [x] LC1 两数之和（40 min）
 - [x] 写这条记录（5 min）
